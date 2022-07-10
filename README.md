@@ -6,7 +6,7 @@
 <h2 align="center">Hi 👋, I'm Manjunath MP</h2>
 
 
-<img align="left" alt="GIF-1" width="350px" height="350px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
+<img align="left" alt="GIF-1" width="350px" height="350px" src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Assets/Monkey_Kid_Coding.gif" />
 
 
 ## - A passionate Game developer from India!!!
