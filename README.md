@@ -128,7 +128,7 @@ mindmap
 
 ## 🐍 Contribution Grid
 
-![Snake animation](https://github.com/mppavan05/mppavan05/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/mppavan05/mppavan05/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
