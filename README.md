@@ -18,7 +18,7 @@
 
 </div>
 
-<img align="right" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhM2VlZjhlYzc5YzU5OGFmMzM2OTM0MjYzZDM4ZWM1ZmYyMjQxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlkNG1wYTJ1eTVuMnN1dzRjNWNsOXAzc3hhNmZrMG1nZ3VjYzFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🎮 Player Stats
 
@@ -37,15 +37,6 @@ public class GameDeveloper : MonoBehaviour
 }
 ```
 
-## 🏆 Achievement Unlocks
-
-```
-🎯 ACHIEVEMENT UNLOCKED: Led Development at Enixo Studio
-⚔️ ACHIEVEMENT UNLOCKED: Mastered Multiplayer Systems
-🎲 ACHIEVEMENT UNLOCKED: Casino Game Architecture Expert
-🚀 ACHIEVEMENT UNLOCKED: Mobile Performance Guru
-```
-
 ## ⚔️ Skill Tree
 
 <div align="center">
@@ -56,12 +47,12 @@ mindmap
     Unity3D
       Multiplayer
         Socket.IO
-        Real-time Sync
+        Real-time
       Performance
         Asset Bundles
         Memory Management
-      UI/UX
-        Custom Systems
+      UI Systems
+        Custom UI
         Animation
     Programming
       C#
@@ -75,75 +66,67 @@ mindmap
 
 </div>
 
-## 🎲 Main Quests (Experience)
+## 🎲 Main Quests
 
 ```ascii
-⚔️ Enixo Studio (2022 - Present)
-│  └─ Legendary Items: Multiplayer Casino Games
-│     └─ Enchantments: Real-time Sync, Asset Optimization
+⚔️ Enixo Studio
+│  └─ Casino Games Development
+│     └─ Real-time Systems, Asset Optimization
 │
-🗡️ Appcake (2022)
-│  └─ Rare Items: iOS Gaming Applications
-│     └─ Enchantments: Performance Optimization
+🎯 Appcake
+│  └─ iOS Gaming Applications
+│     └─ Performance & UI Systems
 │
-🏹 Outscal Technologies (2021 - 2022)
-   └─ Epic Items: Multiple Unity Games
-      └─ Enchantments: Industry Standards, Agile Development
+🎲 Outscal Technologies
+   └─ Unity Game Development
+      └─ Core Gaming Systems
 ```
 
-## 🎮 Side Quests (Projects)
+## 🎮 Side Quests
 
 <div align="center">
 
-| Project | Tech Stack | Features |
-|:-------:|:----------:|:--------:|
-| 🎯 Balance 3D | Unity, C# | `Gyro Controls` `Custom Events` `Mobile` |
-| 🚀 Battle Tank 3D | Unity, C# | `MVC` `State Pattern` `AI` |
-| 🐍 Snake 2D | Unity, C# | `Power-ups` `Custom UI` `Scenes` |
-| 💥 Pop Blast | Unity, C# | `Endless Levels` `Mobile` `Arcade` |
+| Project | Tech Stack | Key Features |
+|:-------:|:----------:|:------------:|
+| 🎯 Balance 3D | Unity, C# | `Gyroscope Controls` `Event Systems` `Mobile` |
+| 🚀 Battle Tank 3D | Unity, C# | `MVC Pattern` `State Machine` `AI` |
+| 🐍 Snake 2D | Unity, C# | `Power-up System` `Custom UI` `Scenes` |
+| 💫 Pop Blast | Unity, C# | `Level Generator` `Mobile` `Effects` |
 
 </div>
 
-## 🌟 Power-Ups (Skills)
-
-<div align="center">
-
-![Unity](https://img.shields.io/badge/UNITY-★★★★★-brightgreen?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)
-![C#](https://img.shields.io/badge/C%23-★★★★★-blue?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black)
-![Multiplayer](https://img.shields.io/badge/MULTIPLAYER-★★★★☆-orange?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=black)
-![Design Patterns](https://img.shields.io/badge/DESIGN_PATTERNS-★★★★☆-purple?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)
-
-</div>
-
-## 📊 Player Stats
+## 🌟 Power-Ups
 
 <div align="center">
 
 ```ascii
-⚔️ COMBAT STATS ⚔️
+⚔️ SKILL POINTS ⚔️
 ┌────────────────────────┐
 │  Unity         ████████│
 │  Networking    ███████ │
 │  Optimization  ████████│
-│  UI/UX         ██████  │
+│  UI Systems    ██████  │
 └────────────────────────┘
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mppavan05&show_icons=true&theme=chartreuse-dark)
+![Unity](https://img.shields.io/badge/UNITY-000000.svg?style=for-the-badge&logo=unity&logoColor=white&color=100000&labelColor=000000)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120&labelColor=172B4D)
+![Multiplayer](https://img.shields.io/badge/MULTIPLAYER-FF4747.svg?style=for-the-badge&logo=socket.io&logoColor=white&color=FF4747&labelColor=172B4D)
+![Design](https://img.shields.io/badge/DESIGN-7952B3.svg?style=for-the-badge&logo=unity&logoColor=white&color=7952B3&labelColor=172B4D)
 
 </div>
 
-## 🌐 Join My Party
+## 🌐 Join Party
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/JOIN_QUEST-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mppavan05.wixsite.com/pavanpf)
+[![Portfolio](https://img.shields.io/badge/VIEW_QUESTS-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mppavan05.wixsite.com/pavanpf)
 [![LinkedIn](https://img.shields.io/badge/PARTY_UP-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-mp-b53a1b19b)
 [![Email](https://img.shields.io/badge/SEND_MESSAGE-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mppavan05@gmail.com)
 
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Grid
 
 ![Snake animation](https://github.com/mppavan05/mppavan05/blob/output/github-contribution-grid-snake.gif)
 
