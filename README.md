@@ -1,58 +1,97 @@
-[![Programmer](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Righteous&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+!!!+;My+name+is+Manjunath+MP;I'm+a+Game+Developer;Nice+meeting+you!!!....)]
+# <div align="center">🎮 Manjunath MP | Game Developer 🎮</div>
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
+<div align="center">
 
-<h2 align="center">Hi 👋, I'm Manjunath MP</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=GAME+DEVELOPER;UNITY+3D+SPECIALIST;MULTIPLAYER+EXPERT;CREATIVE+CODER)
 
+</div>
 
-<img align="left" alt="GIF-1" width="350px" height="350px" src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Assets/Monkey_Kid_Coding.gif" />
+<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3ODMzMjVkYjQ5ZDQ5ZmM0NTEyNGRiMDc5MDZiZmY5ZGVjYTJlYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
+## About Me 🚀
 
+Professional Game Developer with extensive experience in Unity3D, specializing in multiplayer casino games and mobile game development. Passionate about creating immersive gaming experiences and optimizing performance.
 
+- 🎯 Currently leading game development at **Enixo Studio**
+- 🌟 Specialized in **Multiplayer Systems** & **Casino Games**
+- 🔧 Expert in **Unity3D**, **C#**, and **Networking**
+- 🎨 Proficient in **UI/UX Design** & **Performance Optimization**
+- 🌱 Currently exploring **Advanced Design Patterns** & **Shader Programming**
 
-## - A passionate Game developer from India!!!
-- -👱🏼 You can also call me Pavan.
-- -😄 Adjectives: Game Developer, Creative thinker.
-- -🌈 I Like Coding, playing games, Art and Craft, Music and traveling.
-- -⚡ Cravings: Learning new things, Travelling and Playing Games 
-- -🌱 I Am Also Learning CSS, HTML and Python
-- -✈ In Future, I’m Looking to get a Job in Gaming Industry.
-- -😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
+## Technical Arsenal 🛠️
 
-<br>
-<br>
-<br>
-<br>
+<div align="left">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mppavan05&label=Profile%20views&color=0e75b6&style=flat" alt="mppavan05" /> </p>
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mppavan05" alt="mppavan05" /></a> </p>
+### Programming & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Creative Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
-- 🌱 I’m currently learning **Unity 3D, Design Patterns.**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://mppavan05.wixsite.com/pavanpf](https://mppavan05.wixsite.com/pavanpf)
+## Featured Projects 🎮
 
-- 💬 Ask me about **Design Patterns, Gaming related doubts.**
+### Casino Games Portfolio
+- 🎲 Developed multiplayer casino games with real-time synchronization
+- 🔄 Implemented efficient asset bundle systems
+- 📱 Optimized for mobile platforms
+- 🌐 Integrated networking solutions using Socket.IO
 
-- 📫 How to reach me **mppavan05@gmail.com**
+### Notable Personal Projects
 
-- 📄 Know about my experiences [https://mppavan05.wixsite.com/pavanpf](https://mppavan05.wixsite.com/pavanpf)
+#### 🎯 Balance 3D ([View Project](https://github.com/yourusername/Balance3D))
+- Gyro-controlled 3D adventure game
+- Custom event system
+- Advanced input handling
+- Mobile optimization
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/manjunath-mp-b53a1b19b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manjunath-mp-b53a1b19b" height="30" width="40" /></a>
-</p>
+#### 🎮 Battle Tank 3D ([View Project](https://github.com/yourusername/BattleTank3D))
+- MVC Architecture
+- State Design Pattern
+- Scriptable Objects
+- Custom AI system
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Professional Journey 💼
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mppavan05&show_icons=true&locale=en&layout=compact" alt="mppavan05" /></p>
+```mermaid
+graph LR
+    A[Rossell Techsys] --> B[Outscal Technologies]
+    B --> C[Appcake]
+    C --> D[Enixo Studio]
+    style D fill:#00ff00,stroke:#333,stroke-width:2px
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mppavan05&show_icons=true&locale=en" alt="mppavan05" /></p>
+## Let's Connect! 🤝
+<div align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mppavan05&" alt="mppavan05" /></p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mppavan05.wixsite.com/pavanpf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-mp-b53a1b19b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mppavan05@gmail.com)
+
+</div>
+
+## GitHub Stats 📊
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mppavan05&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mppavan05&layout=compact&theme=radical)
+
+</div>
 
 ## Contribution Graph 🐍
-![snake gif](https://github.com/mppavan05/mppavan05/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/mppavan05/mppavan05/blob/output/github-contribution-grid-snake.gif)
+
+---
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=mppavan05&color=green" alt="Profile Views">
+</div>
