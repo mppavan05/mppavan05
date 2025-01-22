@@ -27,7 +27,7 @@ public class GameDeveloper : MonoBehaviour
 {
     public string Name = "Manjunath MP";
     public string Class = "Unity Developer";
-    public int Level = 5; // Years of Experience
+    public int Level = 3; // Years of Experience
     public string[] ActiveQuests = 
     {
         "Multiplayer Casino Games",
